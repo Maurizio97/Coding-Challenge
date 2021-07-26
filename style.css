@@ -1,0 +1,98 @@
+body{
+  background-image: url('file:///C:/Boolean/Coding challenge Lim/background.jpg');
+  background-size: cover;
+}
+
+.container{
+font-family: 'Roboto', sans-serif;
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 1000px;
+  height: 850px;
+  margin: auto;
+  margin-top: 25px;
+  padding-left: 5%;
+  padding-right: 5%;
+  border-radius:  13px ;
+  padding-bottom:
+}
+
+/* header */
+.logo{
+  padding-top: 7%;
+  height: 12%;
+  width:  22%;
+  display: block;
+  margin: auto;
+}
+
+#titolo{
+  text-align: center;
+  color: lime;
+  margin: 1px;
+  padding: 1px;
+}
+
+/* navigazione */
+.navigazione{
+  background-color: lime;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+/* main */
+main{
+  color: white;
+}
+.nome-propr{
+  display: block;
+  margin-bottom:1px;
+  padding-bottom: 1px;
+}
+
+.checkbox{
+  height: 15px;
+  width: 15px;
+}
+
+.propr-monopattino{
+  display: inline-block;
+  margin-bottom:1px;
+  padding-bottom: 1px;
+}
+
+.via{
+  display: inline-block;
+  font-size: 20px;
+  font-size: ;
+  padding: 1px;
+  margin: 1px;
+}
+
+.carica{
+  display: block;
+  padding: 1px;
+  margin: 1px;
+  font-size: 20px
+}
+
+#carica-1{
+  background-color: orange;
+  height: 30px;
+  width: 390px;
+  border-radius: 10px;
+}
+
+#carica-2{
+  background-color: green;
+  height: 30px;
+  width: 600px;
+  border-radius: 10px;
+}
+
+#carica-3{
+  background-color: red;
+  height: 30px;
+  width: 140px;
+  border-radius: 10px;
+}
